@@ -15,8 +15,6 @@ A powerful and user-friendly Python script to analyze your GitHub social connect
 -   **No API Key Required**: Works with the public GitHub API without needing a personal access token for its core features.
 -   **Input Validation**: Ensures you enter a valid GitHub username format before making API calls.
 
-## 📸 Screenshot
-
 
 
 ## 🚀 Getting Started
