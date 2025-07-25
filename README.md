@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehmetabak/GitHub-Relationship-Analyzer/blob/main/github_analyzer.ipynb)
 
-A powerful and user-friendly Python script to analyze your GitHub social connections. Find out who isn't following you back, discover your "fans," and manage your network more effectively.
+A powerful and user-friendly Python script to analyze your GitHub social connections. Find out who isn't following you back and manage your network more effectively.
 
 ## ✨ Features
 
